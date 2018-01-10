@@ -25,4 +25,5 @@ dependencies {
     compile 'com.google.firebase:firebase-appindexing:11.8.0'
     androidTestCompile 'com.android.support:support-annotations:27.0.2'
     androidTestCompile 'com.android.support.test.espresso:espresso-core:3.0.1'
+    androidTestCompile 'com.android.support.test.espresso:espresso-intents:3.0.1'
 }
